@@ -1,0 +1,12 @@
+header {
+    background-color: rgb(41, 167, 202);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+h1 {
+    color: #e20b0b;
+}
+p {
+    background-color: cornflowerblue;
+}
